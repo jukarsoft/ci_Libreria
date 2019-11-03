@@ -1,0 +1,21 @@
+ 
+header, footer, section {
+	width: 	550px;
+	border: 2px solid grey;
+	border-radius: 10px;
+	margin: 10px auto;
+	padding: 20px;
+	background-color: lightblue;
+	text-align: center;
+}	
+
+label {
+	width: 150px;
+	display: inline-block;
+
+}
+input[type=text] {width: 200px;}
+input[type=submit] {width: auto;}
+	
+
+#menu a {text-align: left;}
